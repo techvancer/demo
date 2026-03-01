@@ -1,0 +1,2 @@
+[functions.provision_account]
+verify_jwt = false
